@@ -7,7 +7,7 @@ It identifies energy surpluses, renewable production leaders, and efficiency ins
 
 ## SQL Analysis
 
-You can view the **Tableau** visualizations and final recommendation in the separate file: [Tableau Visualizations](tableau-visualizations.md)
+You can view the **Tableau** visualizations and final recommendation in the separate file: [Tableau Visualizations](Tableau-Visualizations.md)
 
 ---
 
