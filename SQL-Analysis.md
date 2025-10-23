@@ -5,6 +5,12 @@ It identifies energy surpluses, renewable production leaders, and efficiency ins
 
 ---
 
+## SQL Analysis
+
+You can view the **Tableau** visualizations and final recommendation in the separate file: [Tableau Visualizations](tableau-visualizationss.md)
+
+---
+
 ## Energy Generation  
 Identify regions that are net energy producers. Not all regions generate enough energy to meet the local demand. Some regions purchase power from other regions, while others sell their surplus to regions in need. 
 
